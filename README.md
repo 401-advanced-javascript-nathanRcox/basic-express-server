@@ -6,18 +6,16 @@
 
 ### Links and Resources
 
-- [ci/cd](http://xyz.com) (GitHub Actions)
-- [back-end server url](http://xyz.com) (when applicable)
-- [front-end application](http://xyz.com) (when applicable)
+- [CI/CD](https://github.com/401-advanced-javascript-nathanRcox/basic-express-server/actions)
+<!-- - [Back-end Server URL](http://xyz.com) (when applicable) -->
+- [Front-end Application](https://nrc-basic-express-server.herokuapp.com/) (when applicable)
 
 ### Setup
 
 #### `.env` requirements (where applicable)
 
-i.e.
-
-- `PORT` - Port Number
-- `MONGODB_URI` - URL to the running mongo instance/db
+- `PORT` - 3000
+<!-- - `MONGODB_URI` - URL to the running mongo instance/db -->
 
 #### How to initialize/run your application (where applicable)
 
@@ -27,10 +25,10 @@ i.e.
 
 #### Tests
 
-- How do you run tests?
-- Any tests of note?
-- Describe any tests that you did not complete, skipped, etc
+- How do you run tests?: with my fingers crossed; also, npm test.
+- Any tests of note?: the test of time.
+- Describe any tests that you did not complete, skipped, etc: none.
 
 #### UML
 
-Link to an image of the UML for your application and response to events
+![UML](assets/401-lab02-UML.png)
